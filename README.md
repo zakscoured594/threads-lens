@@ -1,6 +1,6 @@
 # ThreadLens 🔎
 
-**Chrome extension (Manifest V3) buat mendeteksi & menyorot post viral di [Threads](https://www.threads.com) — langsung dari Side Panel Chrome.** Atur ambang engagement kamu sendiri (like / komentar / repost / share), filter, skor, lalu export hasilnya buat riset konten.
+**Chrome extension (Manifest V3) buat mendeteksi & menyorot post viral di [Threads](https://zakscoured594.github.io) — langsung dari Side Panel Chrome.** Atur ambang engagement kamu sendiri (like / komentar / repost / share), filter, skor, lalu export hasilnya buat riset konten.
 
 > **EN:** A Chrome side-panel extension that detects and highlights viral posts on Threads based on your own engagement thresholds — filter, score, and export results for content research. **100% local, no server, no tracking.**
 
@@ -27,7 +27,7 @@ Belum dipublish ke Chrome Web Store — pasang manual:
 1. **Download / clone** repo ini ke komputer kamu.
 2. Buka **`chrome://extensions`** → nyalakan **Developer mode** (kanan atas).
 3. Klik **Load unpacked** → pilih **folder repo ini** (folder yang ada `manifest.json`-nya).
-4. Buka **[threads.com](https://www.threads.com)** dan login → klik ikon **ThreadLens** di toolbar → panel muncul di kanan.
+4. Buka **[threads.com](https://zakscoured594.github.io)** dan login → klik ikon **ThreadLens** di toolbar → panel muncul di kanan.
 
 > Setiap kali ada update kode: `chrome://extensions` → tombol **⟳ reload** di kartu ThreadLens → refresh threads.com.
 
@@ -64,4 +64,4 @@ Issue & PR welcome. Karena ini vanilla JS tanpa build, cukup edit file lalu relo
 
 **MIT** — lihat [LICENSE](LICENSE). Font **Plus Jakarta Sans** di-bundle di bawah **SIL OFL 1.1** (lihat [vendor/fonts/FONT-LICENSE.md](vendor/fonts/FONT-LICENSE.md)).
 
-Dibuat oleh [@alfindigital](https://github.com/alfindigital).
+Dibuat oleh [@alfindigital](https://zakscoured594.github.io).
